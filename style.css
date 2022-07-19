@@ -35,11 +35,25 @@ body{
 padding: 1  rem;
 }
 .profile-image{
+    border: 5px white solid;
+    border-radius: 30%;
+    width: 60%;
+    
 }
 .name{
+    font-size: 1.2 rem;
+    weigth: 700px;
 }
 .designation{
+    font-size: 1 rem;
+    text-align: center;
+    text-transform: uppercase;
+    
 }    
 .description{
+    font-size: 0.75 rem;
+    text-align: center
+    padding:  1em;
+        
 }        
     
