@@ -31,6 +31,15 @@ body{
         grid-column: span 1 /span 2;
         backgroud-color: #f7f7f7; 
 }
-    
-        
+.left-content{
+padding: 1  rem;
+}
+.profile-image{
+}
+.name{
+}
+.designation{
+}    
+.description{
+}        
     
