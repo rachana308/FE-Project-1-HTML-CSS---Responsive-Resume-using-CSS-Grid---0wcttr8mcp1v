@@ -35,6 +35,9 @@ body{
 padding: 1  rem;
 }
 .profile-image{
+    display: block;
+    margin: auto;
+    text-align: center;
     border: 5px white solid;
     border-radius: 30%;
     width: 60%;
