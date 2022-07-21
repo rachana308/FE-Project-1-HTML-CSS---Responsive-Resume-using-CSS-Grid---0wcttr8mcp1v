@@ -17,6 +17,10 @@ body{
     .main-content{
         grid-template-columns: repeat(1,1fr);
 }
+@media screen and (max-width: 674px)
+    .main-content{
+        grid-template-columns: 1fr;
+}
 .main-content{
     min-heigth: 1000px;
     width: 90%;
@@ -27,12 +31,12 @@ body{
 }
 . left-section{
     grid-area: 1/1/3/2;
-        grid-column: span 1; 
+        grid-column: span 300px; 
         background-color: #242531;
 }
 . right-section{
     grid-area: 1/2/3/3;
-        grid-column: span 1 /span 2;
+        grid-column: span 300px span 1000;
         backgroud-color: #f7f7f7; 
 }
 .left-content{
