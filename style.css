@@ -46,9 +46,10 @@ padding: 1  rem;
 .name{
     font-size: 1.2 rem;
     weigth: 700px;
+    
 }
 .designation{
-    font-size: 1 rem;
+    font-size: 1em;
     text-align: center;
     text-transform: uppercase;
     
@@ -59,4 +60,40 @@ padding: 1  rem;
     padding:  1em;
         
 }        
+.skills-title{
+    font-size: 0.75em
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1em 1em;
+    padding: 0.5em 0.5em;
+
+}  
+.skill-name{
+    font-size: 0.65em;
+    weight: 0.65 em;
+    text-align: left;
+    padding-bottom: 0.5em;
+}
+.progress-bar{
+   border: 1 px white solid;
+   height: 4px;
+}
+.right-main-content{
+    padding: 2em 2em;
+    padding: 3em 3em;
+}
+.right-title{
+    font-size: 1em;
+    font-weight: 700;
+    padding: 0.5em;
+    letter-spacing: 1px;
     
+}
+
+
+
+
+
+
+
+
