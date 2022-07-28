@@ -56,7 +56,7 @@ body{
 .description{
     font-size: 0.75rem;
     text-align: center
-    padding:  1rem 1rem;
+    padding: 1rem;
         
 }        
 .social-media{
@@ -85,7 +85,7 @@ body{
       color: #fff;
       font-weight: 300;
 }
-.skills{
+.skills-title{
      font-size: 0.75rem;
       text-align: center;
       text-tranform: uppercase;
