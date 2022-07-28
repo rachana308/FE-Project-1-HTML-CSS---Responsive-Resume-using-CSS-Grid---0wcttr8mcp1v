@@ -12,7 +12,7 @@ body{
 }
 .main-content{
         display: grid;
-        grid- template-column: 300px 700px;
+        grid- template-column: 300px 1000px;
         min-heigth: 1000px;
        width: 90%;
        margin: 20px auto;
@@ -48,7 +48,7 @@ body{
     
 }
 .designation{
-    font-size: 1em;
+    font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 0.5rem;
@@ -93,9 +93,9 @@ body{
 }
 .skill-name{
      font-size: 0.65rem;
-     font-weight: 0.65 em;
+     font-weight: 0.65rem;
      text-align: left;
-     padding-bottom: 0.5em;
+     padding-bottom: 0.5rem;
 }
 .progress-bar{
    border: 1 px white solid;
