@@ -10,7 +10,14 @@
 body{
     background-color: #add8e6;
 }
-
+ @media (min-width:674px)
+    {
+    .main-content{
+        grid-template-columns: repeat(1,1fr);
+      min-height: 1000px;
+      width: 90%;
+    }
+}
 .main-content {
     display: grid;
     grid-template-columns: 300px 700px;
@@ -147,14 +154,7 @@ h6{
         width: 90%;
         min-height: 1000px;
     }
-    @media (min-width:673px)
-    {
-    .main-content{
-        grid-template-columns: repeat(1,1fr);
-    }
-}
-
-
+  
 
 
 
